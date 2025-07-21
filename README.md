@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analytics Project – SQL Case Study
+# 🛒 E-Commerce Sales Sql Analysis
 
 ## Project Overview  
 
