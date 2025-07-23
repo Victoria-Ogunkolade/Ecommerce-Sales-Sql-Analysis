@@ -1,5 +1,5 @@
 /*
-  E-COMMERCE SALES ANALYSIS - WEEK 1
+  E-COMMERCE SALES ANALYSIS 
   Author: Victoria Ogunkolade
   Role: Data Analyst (2 YOE)
   Description: This SQL script answers key business questions using
